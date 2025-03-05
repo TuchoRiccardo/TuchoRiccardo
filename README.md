@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and Web Developer
 ------------------------------------
 
-Hello, how are you? My name is Carlos Riccardo. I am a 26-year-old backend developer from Argentina. I love technology and everything related to it. Programming allowed me to enter this field in a central way. It helps me explore new paths and play an important role in this area. I like and feel excited about developing applications that can improve people's lives. My goal is to help people have a better life through technology. I want to keep learning and stay updated with software development news. I look forward to working with more developers and creating something meaningful together.
+Hello, how are you? My name is Carlos Riccardo. I am a 27-year-old backend developer from Argentina. I love technology and everything related to it. Programming allowed me to enter this field in a central way. It helps me explore new paths and play an important role in this area. I like and feel excited about developing applications that can improve people's lives. My goal is to help people have a better life through technology. I want to keep learning and stay updated with software development news. I look forward to working with more developers and creating something meaningful together.
 
 * 🌍  I'm based in Santiago del Estero, Argentina
 * ✉️  You can contact me at [carlostuchoriccardo@gmail.com](mailto:carlostuchoriccardo@gmail.com)
